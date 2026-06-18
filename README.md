@@ -1,5 +1,7 @@
 # YouTube Transcript Scraper — Clean Text for AI Agents, No API Key
 
+![cover](./cover.png)
+
 [![Apify Actor](https://img.shields.io/badge/Apify-Actor-blue?logo=apify&logoColor=white)](https://apify.com/george.the.developer/youtube-transcript-scraper)
 [![No API Key](https://img.shields.io/badge/Auth-No%20API%20Key-green)](https://apify.com/george.the.developer/youtube-transcript-scraper)
 [![MCP](https://img.shields.io/badge/AI%20Agents-MCP%20Ready-purple)](https://mcp.apify.com)
